@@ -69,10 +69,19 @@ This project leverages historical demand and operational data to build a solutio
 
 ## Usage
 
-- Update or add your data in the `/data` directory as needed.
-- Access the web interface via the default local server port (shown in console) to view forecasts and rake schedules.
-- Detailed instructions and sample data are provided.
+-Place or update the relevant dataset files in the data/ directory: historical_demand_data.csv, railway_rakes.csv, railway_routes.csv, railway_schedules.csv, and railway_stations.csv.
 
+Run the backend/data scripts (Python scripts, if present) to preprocess data and generate forecasts or schedules. Detailed usage for each script (such as python src/forecast.py or python src/schedule.py) should be included in the /src folder and documented within those scripts.
+
+Launch the frontend interface with:
+
+text
+npm run dev
+This starts the development server for interacting with data visualizations and reviewing rake allocations.
+
+Open the given local server URL (e.g., http://localhost:3000/) in a web browser to interact with dashboards showing forecasting results and rake schedules.
+
+For updating logic, modifying analysis, or adding new features, edit the code within the src/ directory as needed.
 ## Data Sources
 
 - **historical_demand_data.csv:** Past demand for rakes per route or station.
