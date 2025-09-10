@@ -1,0 +1,5 @@
+Schedule_ID,Rake_ID,Route_ID,Departure_Time,Arrival_Time,Status,Cargo_Type,Cargo_Weight_Tons,Cargo_Value_USD
+schedule_001,rake_002,route_001,2 hours from now,18 hours from now,scheduled,passengers,250,125000
+schedule_002,rake_004,route_002,6 hours from now,26 hours from now,in-progress,coal,480,240000
+schedule_003,rake_003,route_003,12 hours from now,36 hours from now,scheduled,express_cargo,320,480000
+schedule_004,rake_001,route_005,4 hours ago,28 hours from now,completed,steel,450,675000

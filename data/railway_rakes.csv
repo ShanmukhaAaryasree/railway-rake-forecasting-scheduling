@@ -1,0 +1,9 @@
+Rake_ID,Type,Capacity_Tons,Current_Location,Status,Last_Maintenance,Next_Maintenance
+rake_001,freight,500,NDLS,available,5 days ago,2 days from now
+rake_002,passenger,300,BCT,in-transit,3 days ago,4 days from now
+rake_003,express,400,MAS,available,1 day ago,6 days from now
+rake_004,freight,600,HWH,loading,7 days ago,today
+rake_005,passenger,350,SBC,available,2 days ago,5 days from now
+rake_006,express,450,NDLS,maintenance,today,6 hours from now
+rake_007,freight,550,BCT,available,4 days ago,3 days from now
+rake_008,passenger,320,MAS,unloading,6 days ago,1 day from now

@@ -1,0 +1,7 @@
+Route_ID,Route_Name,Origin,Destination,Distance_KM,Travel_Time_Hours,Priority
+route_001,Delhi-Mumbai Express,NDLS,BCT,1384,16,high
+route_002,Mumbai-Chennai Freight,BCT,MAS,1279,20,medium
+route_003,Chennai-Kolkata Express,MAS,HWH,1663,24,high
+route_004,Kolkata-Bangalore Passenger,HWH,SBC,1871,28,low
+route_005,Bangalore-Delhi Circuit,SBC,NDLS,2146,32,medium
+route_006,Delhi-Chennai Direct,NDLS,MAS,2180,30,high

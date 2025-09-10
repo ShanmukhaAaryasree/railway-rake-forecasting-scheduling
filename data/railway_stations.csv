@@ -1,0 +1,6 @@
+Station_ID,Station_Name,Station_Code,Latitude,Longitude,Capacity,Facilities
+stn_001,New Delhi Railway Station,NDLS,28.6428,77.2197,16,"Maintenance, Refueling, Loading"
+stn_002,Mumbai Central,BCT,18.9690,72.8205,12,"Maintenance, Loading, Passenger"
+stn_003,Chennai Central,MAS,13.0827,80.2707,10,"Refueling, Loading"
+stn_004,Kolkata Howrah,HWH,22.5726,88.3639,14,"Maintenance, Refueling, Loading, Passenger"
+stn_005,Bangalore City,SBC,12.9716,77.5946,8,"Loading, Passenger"
