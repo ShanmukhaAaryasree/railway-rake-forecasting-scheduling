@@ -91,7 +91,7 @@ This project is open source and available under the MIT License.
 
 ***
 
-Remember to adjust this README with additional details, screenshots, or setup notes as your project evolves.[2][3][1]
+
 
 [1](https://everhour.com/blog/github-readme-template/)
 [2](https://dev.to/sumonta056/github-readme-template-for-personal-projects-3lka)
